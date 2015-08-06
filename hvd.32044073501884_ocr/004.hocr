@@ -1,0 +1,28 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/47/hvd.32044073501884/004.png"; bbox 0 0 1379 2175; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 946 0 1117 2175">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 946 0 1117 2175">
+     <span class='ocr_line' id='line_1_1' title="bbox 946 0 1106 348; baseline 0 -81"><span class='ocrx_word' id='word_1_1' title='bbox 946 0 1105 348; x_wconf 72' lang='grc' dir='ltr'>ξι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 951 299 1110 508; baseline 0 -81"><span class='ocrx_word' id='word_1_2' title='bbox 951 299 1110 508; x_wconf 61' lang='lat' dir='ltr'>Id</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 952 456 1115 991; baseline 0 -81"><span class='ocrx_word' id='word_1_3' title='bbox 952 504 1115 991; x_wconf 80' lang='grc' dir='ltr'>ξΞ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 949 916 1117 1712; baseline 0 -569"><span class='ocrx_word' id='word_1_4' title='bbox 949 950 1117 1712; x_wconf 56' lang='grc' dir='ltr'>Ξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 950 1712 1114 1954; baseline 0 -81"><span class='ocrx_word' id='word_1_5' title='bbox 950 1712 1114 1954; x_wconf 80' lang='lat'>:-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 953 1954 1115 2175; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 953 1954 1115 2175; x_wconf 75' lang='grc' dir='ltr'><strong><em>-Ξ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 47 0 178 2158">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 49 0 178 1330">
+     <span class='ocr_line' id='line_1_7' title="bbox 51 0 178 152; baseline 0 -75"><span class='ocrx_word' id='word_1_7' title='bbox 51 0 178 152; x_wconf 77' lang='lat' dir='ltr'><strong>II</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 50 90 177 488; baseline 0 -78"><span class='ocrx_word' id='word_1_8' title='bbox 50 154 176 488; x_wconf 66' lang='grc' dir='ltr'>τε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 49 956 175 1330; baseline 0 -84"><span class='ocrx_word' id='word_1_9' title='bbox 49 956 175 1330; x_wconf 67' lang='grc' dir='ltr'>εἷ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
